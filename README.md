@@ -2,7 +2,7 @@ have you ever been chatting with your friends, sharing snaps with each other, wh
 
 =====================================================================================
 
-1. this code is written by me. it is mine. it may contain reverse-engineered references to symbols found within other applications solely for the purpose of achieving interoperability with these other applications, which is exempt from the violation of copyright law under 17 U.S.C. § 1201(f)(1)
+1. this code is written by me. it is mine. it may contain reverse-engineered references to symbols found within other applications solely for the purpose of achieving interoperability with these other applications, which is exempt from the violation of copyright law under 17 U.S.C. § 1201(f)(1) and 17 U.S.C. § 1201(f)(4)
 2. the sharing of this content here (including the code, binaries, packages or any content produced from them) is not by any means to be treated as authorization for this package to be publicly hosted ANYWHERE other than here. (don't upload it to your own repo)
 3. while i cannot keep you from forking this project, if you plan on editing/building off of this, i would appreciate a private consultation first (there's a lot more backstory to this project than you might imagine)
 4. this software may modify the behavior of other applications. as such, it may be subject to the discretion of TOS agreements that potentially include clauses regarding modification, interruption, or manipulation of the application. (don't come crying to me if your account gets banned)
