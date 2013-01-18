@@ -1,0 +1,8 @@
+have you ever been chatting with your friends, sharing snaps with each other, when suddenly you feel like saving one of those snaps? well chat about it no longer, because the days of using screenshotting those snaps is over. now you can save save all those snaps that your friends chat to you. with this kind of power, you'll really have something to chat about. chatting is a lot more fun when snaps are involved, so install this and you'll be snapping up those chats in a snap.
+
+=====================================================================================
+
+1. this code is written by me. it is mine.
+2. the sharing of this content here (including the code, binaries, packages or any content produced from them) is not by any means to be treated as authorization for this package to be publicly hosted ANYWHERE other than here. (don't upload it to your own repo.)
+3. while i cannot keep you from forking this project, if you plan on editing/building off of this, i would appreciate a private consultation first (there's a lot more backstory to this project than you might imagine)
+4. THIS IS NOT TO BE SOLD OR MADE FOR SALE ANYWHERE THROUGH ANY MEDIUM WHATSOEVER AND I WILL NOT BE RESPONSIBLE FOR LEGAL ISSUES REGARDING AN UNAUTHORIZED COMMERCIAL DISTRIBUTION OF THIS CODE, ANY DERIVATIVE OF IT, ALONG WITH ANY BINARIES PRODUCED FROM IT OR ANY DERIVATIVES. DON'T TRY TO SELL IT. IT'S NOT WORTH IT.
