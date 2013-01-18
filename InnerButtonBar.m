@@ -14,7 +14,7 @@
 	UIFont* font = [[[UIButton buttonWithType:1] titleLabel] font];
 	
 	self.closeButton = [UIButton buttonWithType:0];
-	self.closeButton.frame = CGRectMake(5, 5, 100, 30);
+	self.closeButton.frame = CGRectMake(5, 0, 100, 40);
 	self.closeButton.titleLabel.font = font;
 	/*self.closeButton.layer.borderColor = [UIColor whiteColor].CGColor;
 	self.closeButton.layer.borderWidth = 1;
@@ -26,7 +26,7 @@
 	[rootView addSubview:closeButton];
 	
 	self.markAsReadButton = [UIButton buttonWithType:0];
-	self.markAsReadButton.frame = CGRectMake(110, 5, 100, 30);
+	self.markAsReadButton.frame = CGRectMake(110, 0, 100, 40);
 	self.markAsReadButton.titleLabel.font = font;
 	/*self.markAsReadButton.layer.borderColor = [UIColor whiteColor].CGColor;
 	self.markAsReadButton.layer.borderWidth = 1;
@@ -38,7 +38,7 @@
 	[rootView addSubview:markAsReadButton];
 	
 	self.saveButton = [UIButton buttonWithType:0];
-	self.saveButton.frame = CGRectMake(215, 5, 100, 30);
+	self.saveButton.frame = CGRectMake(215, 0, 100, 40);
 	self.saveButton.titleLabel.font = font;
 	/*self.saveButton.layer.borderColor = [UIColor whiteColor].CGColor;
 	self.saveButton.layer.borderWidth = 1;
