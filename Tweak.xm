@@ -96,7 +96,7 @@ static BOOL hideSafety = NO, snapSafety = NO, markAsReadSafety = NO;
 %new
 -(Snap*)correspondingSnap
 {
-	return [[(Manager*)[%c(Manager) shared] user] snapForId:[[self counter] text]];
+	return [[(Manager*)[%c(Manager) shared] user] snapForIndex:[[self counter] text]]; //updated method for snapchat 5.0
 }
 
 %new
